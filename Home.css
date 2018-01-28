@@ -1,0 +1,60 @@
+body {
+	background-size: 100%;
+	background-image: url(http://www.tokkoro.com/picsup/2989481-programming-code-simple-background-coding___mixed-wallpapers.jpg);
+}
+
+
+#box1 {
+	text-align: center;
+	color: gold;
+	font-weight: bold;
+	font-size: 24px;
+	text-decoration: underline white;
+}
+
+#header-intro {
+	color: gold;
+	text-align: center;
+}
+
+#contact {
+	color: #4EEEAA;
+	font-size: 24px;
+}
+
+#continue{
+	text-align:center;
+	line-height: 50px;
+	position: absolute;
+	bottom: 5px;
+	left: calc(50% - 90px);
+	display:block;
+	width: 180px;
+	height:50px;
+	border:3px solid orange;
+	font-family:sans-serif;
+	background-color:rgba(255,255,255,0);
+	color:white;
+	font-weight: bold;
+	border-radius: 5px;
+}
+
+.continue:hover {
+	background-color: #424242;
+    color: white;
+    cursor:pointer;
+}
+
+#p-text {
+	text-align: center;
+	color: gold;
+}
+
+input {
+	color: white;
+}
+
+.legend {
+	text-align: center;
+	color: gold;
+}

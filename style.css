@@ -1,0 +1,78 @@
+
+*{
+    margin:0;
+    padding:0;
+}
+html, body{
+    height:100%;
+}
+
+body{
+    background-color:#0c0129;
+    background-image:url(http://www.tokkoro.com/picsup/2989481-programming-code-simple-background-coding___mixed-wallpapers.jpg);
+    background-position:center;
+    background-size:cover;
+}
+
+.href1{
+    color: white;
+    margin-left: 10px;
+    word-spacing: 1px;
+}
+
+.heading{
+    width:600px;
+    height:300px;
+    margin:auto;
+    position:absolute;
+    top: 0px; right: 0px; left: 0px; bottom: 0px;
+}
+.title1{
+    display: block;
+    margin-top: -300px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    text-decoration: underline orange;
+    font-size:50pt;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+}
+.title2{
+    display:block;
+    margin-top:30px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    text-decoration: underline orange;
+    font-size:20pt;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+}
+
+.subtext {
+    display:block;
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+    font-size:14pt;
+    font-family:serif;
+}
+
+.verder{
+    margin: 70px auto;
+    display:block;
+    width: 180px;
+    height:50px;
+    border:3px solid orange;
+    font-family:sans-serif;
+    background-color:rgba(255,255,255,0);
+    color:white;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.verder:hover{
+    background-color: #424242;
+    color: white;
+    cursor:pointer;
+}
+
+
